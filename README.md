@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurehSan
-- 👀 I’m interested in programming, new technology, and art.
-- 🌱 I’m currently learning HTML, CSS, and JS.
-- 💞️ I’m looking to collaborate on websites.
+- 👀 I’m interested in programming, machine learning, and all things tech.
+- 🌱 I’m currently learning C, Python, and R.
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: sureh777s@gmail.com 
 
 <!---
