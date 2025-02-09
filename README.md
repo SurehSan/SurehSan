@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SurehSan
-- 👀 I’m interested in programming, machine learning, and all things tech.
+- 👀 I’m interested in programming, machine learning (Named Entity Recognition and Natural Language Processing), and data science.
 - 🌱 I’m currently learning C, Python, and R.
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: sureh777s@gmail.com 
